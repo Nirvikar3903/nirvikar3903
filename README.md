@@ -1,51 +1,77 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Nirvikar</h1>
-<h3 align="center">A passionate Full Stack Developer from Mumbai, India</h3>
+<h1 align="center">Hey 👋, I'm Nirvikar</h1>
+<h3 align="center">🚀 Full Stack Developer | Code Artisan | UI Enthusiast</h3>
 
-<!-- Social Links -->
+<!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nirvikar03.k@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=38B2AC"/>
+  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1"/>
 </p>
 
-<!-- About Me -->
-- 🔭 I’m currently working on *MERN Stack Projects*
-- 🌱 I’m currently learning *TypeScript and Next.js*
-- 👯 I’m looking to collaborate on *Open Source Projects*
-- 💬 Ask me about *JavaScript, React, Node.js*
-- 📫 How to reach me: *your.email@example.com*
-- ⚡ Fun fact: *I love building intuitive user interfaces*
+---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+### 🧑‍💻 About Me
+
+
+
+### 🌟 Skills & Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirvikar3903&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,mysql,git,vscode" />
 </p>
 
-<!-- Top Languages -->
-<h2 align="center">🧰 Top Languages</h2>
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🛒 **ShopKart** | E-commerce frontend built in React with cart, product listing, and checkout. | `React`, `Redux`, `Tailwind`, `FakeStoreAPI` |
+
+
+
+> 💡 *More projects on my [GitHub Repos](https://github.com/Nirvikar3903?tab=repositories)*
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvikar3903&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirvikar3903&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvikar3903&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- GitHub Streak -->
-<h2 align="center">🔥 GitHub Streak</h2>
+---
+
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirvikar3903&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirvikar3903&theme=tokyonight" />
 </p>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nirvikar3903&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nirvikar3903&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
+---
+
+### 💬 Connect With Me
+
 <p align="center">
-  <img src="https://github.com/Nirvikar3903/Nirvikar3903/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+---
+
+### ⚡ Fun Quote
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
